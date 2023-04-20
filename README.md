@@ -8,3 +8,6 @@ Releases and Issues for Advancements
 # Translation
  - You can help us to translate the language file.
  - 欢迎帮助我们翻译语言文件。
+
+# Download
+ - GitHub Release
